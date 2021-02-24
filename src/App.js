@@ -12,10 +12,10 @@ class App extends Component{
 
   render(){
     return(
-      <React.Fragment>
+      <>
         <h1>Tic Tac Toe</h1>
         <Square />
-      </React.Fragment>
+      </>
     )
   }
 }
