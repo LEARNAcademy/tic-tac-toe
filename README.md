@@ -1,19 +1,5 @@
 # Tic Tac Toe
 
-### Rules of React
-
-Here are some rules to keep handy as you build Tic Tac Toe. Following these protocols will help you avoid lots of problems.
-
-- Never update State directly, always use the setState() method.
-- Never alter the DOM directly, always operate on a value in state.
-- Only call setState() once per method or render cycle.
-- State is for values that change, Props is for values being passed to a child component.
-- Don't directly manipulate the DOM to keep track of changes. In other words, don't do this: getElementById("square").style. React State and Props should do all the heavy lifting.
-
-### Remember...
-
-This challenge is intended to let you practice maintaining state in a React application and become more familiar with passing props and dealing with user interactions.
-
 This game will be for two users, playing on one device, taking turns. You will have to use component state to keep track of whose turn it is and which squares have been marked by each player.
 
 This project will challenge your knowledge of React but should also be an exercise in creating good user experiences. Your view should be styled to look good as well as function flawlessly.
