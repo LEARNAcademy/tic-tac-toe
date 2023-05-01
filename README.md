@@ -4,6 +4,11 @@ This is a web game for two players on one device, taking turns. You will have to
 
 When creating a project it is important to think about organization of your code. It is best practice to separate and compartmentalize all the actions in your code. The square UI will be in its own component. App.js controls of all the data in state, renders the other components, and performs the game logic.
 
+### 🗃 Resources
+
+- [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
+- [Tic Tac Toe win condition in React](https://forum.freecodecamp.org/t/need-help-understanding-react-tic-tac-toe-winner-function/137840)
+
 ### 📚 User Stories
 
 - As a user, I can see a three by three grid game board on the page.
@@ -28,8 +33,3 @@ When creating a project it is important to think about organization of your code
 - As a developer, my variables are all named semantically.
 - As a developer, I have refactored and efficient code.
 - As a developer, I have my application [deployed as a live website](https://render.com/docs/deploy-create-react-app).
-
-### 🛠 Resources
-
-- [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
-- [Tic Tac Toe win condition in React](https://forum.freecodecamp.org/t/need-help-understanding-react-tic-tac-toe-winner-function/137840)
